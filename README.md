@@ -1,2 +1,2 @@
-# babylon
-DSRV (www.dsrvlabs.com) contributions for Near
+# DSRV
+- Translate Babylon light paper into korean
